@@ -5,8 +5,8 @@ Welcome to E-commerce website, where green meets serenity! This project is a sma
 ## 🚀 Live Demo
 
 Check out the live demo of the website [here]
-
-## 🌟 Features
+[
+](https://github.com/Erickalafita/React-e-plantShopping.git)## 🌟 Features
 
 - **React** for building the front end.
 - **Redux** for state management.
