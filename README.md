@@ -6,6 +6,8 @@ Welcome to E-commerce website, where green meets serenity! This project is a sma
 
 Check out the live demo of the website [here]
  🌟 Features
+https://saqibtech.com/ibm-react-assignment/
+ 
 <img width="1440" alt="Screenshot 2025-02-17 at 12 11 41 PM" src="https://github.com/user-attachments/assets/67e37ab2-db4e-4aab-b67a-b85d757b8292" />
 
 <img width="1440" alt="Screenshot 2025-02-17 at 12 11 48 PM" src="https://github.com/user-attachments/assets/a77611c0-7491-4545-bfea-a6109970ca4d" />
